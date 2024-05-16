@@ -1,2 +1,2 @@
-# My-first-project-Landing-page-
-This is my first project in GitHub
+# About my first project on GitHub
+This is my inaugural project on GitHub.
